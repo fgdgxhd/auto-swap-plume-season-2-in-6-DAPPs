@@ -1,7 +1,7 @@
 # 🔄 UPDATE Plume Swap Bot season 2
 A lightweight Node.js bot that automatically swaps between PLUME and pUSD on the Plume chain. Ideal for automation and airdrop farming—especially for Plume Airdrop Season 2.
 
-<img width="2558" height="1634" alt="image" src="https://github.com/user-attachments/assets/aa6a3685-aeb0-4442-9965-54841a1c3204" />
+<img width="409" height="91" alt="image" src="https://github.com/user-attachments/assets/5fea628c-817f-4098-a246-6d3981fb1a61" />
 
 ## 🚀 New Features
 - Randomized daily swaps across 5 DEXs: Ambient, Rooster, Camelot, Curve and iZUMi.
